@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá , meu nome é Anderson👋
 
-<!--
-**and-silva-dev/and-silva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> Sou um técnico em eletrônica apaixonado por tecnologia e estou em uma emocionante jornada de transição de carreira cursando Análise e Desenvolvimento de Sistemas. Ao longo dos anos, tive a oportunidade de trabalhar com eletrônica e aprender a solucionar problemas complexos, mas atualmente estou direcionando minha paixão para o mundo da programação focado em Java.</p><br>
 
-Here are some ideas to get you started:
+- 🏄 🤼‍♂️ Apaixonado por esportes
+- 📚 Apaixonado por livros
+- 💻 Tecnologias com que tenho familiaridade:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p></p>
+
+<div style="display: inline">
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />&nbsp;&nbsp;
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;&nbsp;
+</div>
+<br>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Você também me encontra em:
+
+
+  <a href="https://www.linkedin.com/in/anderson-l-1136a414b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
