@@ -1,6 +1,6 @@
 ### Olá , meu nome é Anderson👋
 
-<p> Sou um técnico em eletrônica apaixonado por tecnologia e estou em uma emocionante jornada de transição de carreira cursando Análise e Desenvolvimento de Sistemas. Ao longo dos anos, tive a oportunidade de trabalhar com eletrônica e aprender a solucionar problemas complexos, mas atualmente estou direcionando minha paixão para o mundo da programação focado em Java.</p><br>
+<p> Sou um técnico em eletrônica apaixonado por tecnologia e estou em uma emocionante jornada de transição de carreira cursando Análise e Desenvolvimento de Sistemas. Ao longo dos anos, tive a oportunidade de trabalhar com eletrônica e aprender a solucionar problemas complexos, mas atualmente estou direcionando minha paixão para o mundo da programação.</p><br>
 
 - 🏄 🤼‍♂️ Apaixonado por esportes
 - 📚 Apaixonado por livros
