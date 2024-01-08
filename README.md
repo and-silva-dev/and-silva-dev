@@ -20,9 +20,9 @@
 </div>
 <br>
 <hr>
- Você também me encontra em:
-
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+ <span> Você também me encontra em: </span>
   <a href="https://www.linkedin.com/in/anderson-l-1136a414b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
