@@ -20,7 +20,7 @@
 </div>
 <br>
 <hr>
-### Você também me encontra em:
+ Você também me encontra em:
 
 
   <a href="https://www.linkedin.com/in/anderson-l-1136a414b">
